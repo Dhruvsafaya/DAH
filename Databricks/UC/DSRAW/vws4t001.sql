@@ -1,0 +1,1 @@
+select * from sap_datalake_ring1.s4raw.t001
